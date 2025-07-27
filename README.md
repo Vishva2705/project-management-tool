@@ -8,8 +8,21 @@ TaskPro is a feature-rich project management tool designed to streamline collabo
 - **Real-time Chat:** Collaborate effortlessly using Firebase-powered real-time chat for each project.  
 - **Modern UI:** Built with Mantine UI for a sleek, user-friendly design.  
 
-## 📹 Demo  
-Check out the demo of TaskPro here: [Watch on YouTube](https://youtu.be/NcVJ8NZm8xQ?si=7CJCfmWVBvf-8cP2)  
+## 📸 Screenshots
+
+### 🔸 Dashboard Overview
+![Dashboard Overview](https://github.com/Vishva2705/task-pro-main/blob/main/WhatsApp%20Image%202025-07-27%20at%2013.43.13_d37e6dcf.jpg)
+
+### 🔸 Tasks in Progress
+![Tasks in Progress](https://github.com/Vishva2705/task-pro-main/blob/main/WhatsApp%20Image%202025-07-27%20at%2013.43.13_bcb83327.jpg)
+
+### 🔸 Your Projects Grid
+![Projects Grid](https://github.com/Vishva2705/task-pro-main/blob/main/WhatsApp%20Image%202025-07-27%20at%2013.43.14_6e13c883.jpg)
+
+### 🔸 Create New Project Flow
+![Create New Project](https://github.com/Vishva2705/task-pro-main/blob/main/WhatsApp%20Image%202025-07-27%20at%2013.43.14_feabd2ed.jpg)
+
+---
 
 ## 🔧 Tech Stack  
 - **Frontend:** React.js  
