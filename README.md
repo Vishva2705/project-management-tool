@@ -1,6 +1,6 @@
 # Project Management Tool  
 
-TaskPro is a feature-rich project management tool designed to streamline collaboration and task management. With real-time updates, intuitive UI, and robust features, TaskPro is perfect for managing projects effectively.  
+It is a feature-rich project management tool designed to streamline collaboration and task management. With real-time updates, intuitive UI, and robust features, TaskPro is perfect for managing projects effectively.  
 
 ## 🚀 Features  
 - **Projects & Tasks:** Create and manage projects with ease. Assign tasks, set priorities, and track progress.  
